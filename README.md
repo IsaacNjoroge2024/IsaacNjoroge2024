@@ -22,7 +22,7 @@
 [![Grade](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024&show_icons=true&theme=dark&hide_border=true&custom_title=Cube%27s%20GitHub%20Stats)](https://github.com/IsaacNjoroge2024)
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024&show_icons=true&theme=dark&token=${{secrets.README_TOKEN}})
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IsaacNjoroge2024/IsaacNjoroge2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
