@@ -1,7 +1,5 @@
 ## Hi there 👋 Welcome to my profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=IsaacNjoroge2024&theme=dark)
 -->
