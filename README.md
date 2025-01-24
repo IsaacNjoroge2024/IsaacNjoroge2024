@@ -23,6 +23,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+-->
+
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024&count_private=true&show_icons=true&theme=dark&token=${{ secrets.README_TOKEN }})
+-->
+
+<!--
 **IsaacNjoroge2024/IsaacNjoroge2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
