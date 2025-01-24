@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024&show_icons=true&theme=dark)
+
+# Your GitHub Stats
+
+⭐ Total Stars Earned: ${stars}
+🕐 Total Commits (2025): ${commits}
+🔄 Total PRs: ${prs} 
+⚠️ Total Issues: ${issues}
+📱 Contributed to (last year): ${contributions}
+
 <!--
 **IsaacNjoroge2024/IsaacNjoroge2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
