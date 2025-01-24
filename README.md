@@ -4,7 +4,7 @@
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=IsaacNjoroge2024&theme=dark)
 -->
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=IsaacNjoroge2024&theme=dark&hide_border=true)](https://github.com/IsaacNjoroge2024)
+[![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=IsaacNjoroge2024&theme=dark&hide_border=true)](https://github.com/IsaacNjoroge2024)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacNjoroge2024&layout=compact&theme=dark&hide_border=true)](https://github.com/IsaacNjoroge2024)
 
