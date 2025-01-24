@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my profile. The language stat isn't really correct, it should be 90% java
+## Hi there 👋 Welcome to my profile.
 
 <!--
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=IsaacNjoroge2024&theme=dark)
