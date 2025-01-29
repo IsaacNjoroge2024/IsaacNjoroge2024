@@ -27,11 +27,11 @@
   <img src="https://skillicons.dev/icons?i=java,ts,python,cs,dotnet,css&theme=dark" />
   
  <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/dist/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake.svg" />
+  </picture>
 
   <!-- Profile Views Counter -->
   ![Profile Views](https://komarev.com/ghpvc/?username=IsaacNjoroge2024&color=blueviolet&style=flat-square)
