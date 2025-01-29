@@ -18,6 +18,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: IsaacNjoroge2024
+          # Change these paths to output directly to root
           svg_out_path: github-contribution-grid-snake.svg
           svg_out_path_dark: github-contribution-grid-snake-dark.svg
 
