@@ -16,31 +16,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Create and push the output branch if it doesn't exist
-      - name: Create output branch if not exists
+      # Clean workspace and set up git
+      - name: Setup
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          if ! git ls-remote --heads origin output; then
-            git checkout --orphan output
-            git rm -rf .
-            git commit --allow-empty -m "Create output branch"
-            git push origin output
-          fi
-          git checkout main
+          git clean -fd
+          git checkout -B output
 
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: IsaacNjoroge2024
           svg_out_path: github-contribution-grid-snake.svg
-          svg_out_path_dark: github-contribution-grid-snake-dark.svg
 
       - name: Push to GitHub
         run: |
-          git checkout output || git checkout -b output
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-          git commit -m "Generate Snake Animation"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generate Snake Animation" || exit 0
           git push -f origin output
