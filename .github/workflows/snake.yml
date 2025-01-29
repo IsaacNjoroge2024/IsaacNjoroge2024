@@ -8,16 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v2
-      - uses: technote-space/generate-snake-game-from-github-contribution-graph@v0.6.0
+
+      - uses: aelassas/snk@main
         with:
           github_user_name: IsaacNjoroge2024
-          svg_out_path: dist/github-snake.svg
-          gif_out_path: dist/github-snake.gif
-          dark_mode: true
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
