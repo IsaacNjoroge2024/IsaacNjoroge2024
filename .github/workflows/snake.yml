@@ -5,24 +5,24 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
 
-      - uses: aelassas/snk@main
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: IsaacNjoroge2024
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          svg_out_path: github-contribution-grid-snake.svg
+          svg_out_path_dark: github-contribution-grid-snake-dark.svg
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: output
           message: 'Generate Snake Animation'
-          add: 'dist'
