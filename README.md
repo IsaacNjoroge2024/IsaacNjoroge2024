@@ -1,11 +1,9 @@
 # Hi there 👋 Welcome to my profile.
 
+[![GitHub Streak](https://github-readme-streak-stats-nu-nine.vercel.app?user=IsaacNjoroge2024&theme=youtube-dark&border_radius=40&mode=weekly&exclude_days=Sun%2CSat&card_width=550&card_height=200)](https://git.io/streak-stats)
 <!--
-[![Streak Stats](https://streak-stats.demolab.com?user=IsaacNjoroge2024&theme=dark&hide_border=true)](https://git.io/streak-stats)
--->
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaacNjoroge2024&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-   
+--> 
 
 ## Most Used Languages
 <!-- Using the languages bar from your current setup -->
