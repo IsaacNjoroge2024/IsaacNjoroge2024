@@ -30,9 +30,13 @@
   <!-- Tech Stack -->
   <img src="https://skillicons.dev/icons?i=java,ts,python,cs,dotnet,css&theme=dark" />
 
-  <!-- Snake Animation -->
+  <!-- Snake Animation
   ![Snake animation](https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake.svg)
+  -->
 
+  <!-- 3D Contribution Calendar -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=IsaacNjoroge2024&theme=dark" />
+  
   <!-- Profile Views Counter -->
   ![Profile Views](https://komarev.com/ghpvc/?username=IsaacNjoroge2024&color=blueviolet&style=flat-square)
   
