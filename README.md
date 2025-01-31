@@ -5,10 +5,6 @@
 -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaacNjoroge2024&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-
-<!-- Day streak -->
-<img src="https://d3frb2mbny706b.cloudfront.net/<IsaacNjoroge2024>" width="600">
    
 
 ## Most Used Languages
