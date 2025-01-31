@@ -33,7 +33,11 @@
   <!-- Snake Animation
   ![Snake animation](https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake.svg)
   -->
-  ![Snake animation](https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IsaacNjoroge2024/IsaacNjoroge2024/output/github-contribution-grid-snake.svg" />
+</picture>
 
   <!-- Animated Stats Grid -->
   [![GitHub Stats Visualization](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsaacNjoroge2024&show_icons=true&theme=radical&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats)](https://github.com/IsaacNjoroge2024)
