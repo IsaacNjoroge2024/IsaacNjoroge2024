@@ -17,8 +17,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacNjoroge2024&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  -->
   
   <!-- GitHub Contribution Graph -->
   [![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaacNjoroge2024&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
