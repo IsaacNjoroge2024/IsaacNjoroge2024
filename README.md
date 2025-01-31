@@ -8,8 +8,8 @@
 
 ## Most Used Languages
 <!-- Using the languages bar from your current setup -->
-![TypeScript](https://img.shields.io/badge/TypeScript-54.65%25-blue)
-![Java](https://img.shields.io/badge/Java-19.94%25-orange)
+![TypeScript](https://img.shields.io/badge/Java-54.65%25-orange)
+![Java](https://img.shields.io/badge/Typescript-19.94%25-orange)
 ![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic%20.NET-16.06%25-purple)
 ![Python](https://img.shields.io/badge/Python-4.72%25-blue)
 ![C#](https://img.shields.io/badge/C%23-4.20%25-green)
