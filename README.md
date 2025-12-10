@@ -25,7 +25,7 @@
   [![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaacNjoroge2024&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Java+Developer;Always+learning+new+stuff;Full+Stack+Development+Enthusiast;Clean+Code+Advocate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=A+passionate+backend+developer;Always+learning+new+stuff;Full+Stack+Development+Enthusiast;Clean+Code+Advocate)](https://git.io/typing-svg)
   
   <!-- Tech Stack -->
   <img src="https://skillicons.dev/icons?i=java,ts,python,cs,dotnet,css&theme=dark" />
